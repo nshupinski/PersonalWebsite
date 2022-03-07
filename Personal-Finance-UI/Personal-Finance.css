@@ -1,0 +1,37 @@
+#signInButtons {
+  bottom: 0;
+}
+
+#btnSubmit {
+  width: 4em;
+}
+
+#transactionTitle {
+  margin-top: 5em;
+}
+#transactionAmount {
+  margin-top: 5em;
+}
+#transactionCategories {
+  margin-top: 5em;
+}
+
+/* For Mobile
+@media screen and (max-width: 688px) {
+  #btnSubmit {
+    width: 80%;
+  }
+
+  #transactionTitle {
+    width: 80%;
+    margin-top: 5em;
+  }
+  #transactionAmount {
+    margin-top: 5em;
+    width: 12%;
+  }
+  #transactionCategories {
+    margin-top: 5em;
+    width: 25%;
+  }
+} */
